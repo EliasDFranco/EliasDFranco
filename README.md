@@ -6,8 +6,8 @@ Siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades, crea
 - **Lenguajes:** Python, Dart.
 - **Frameworks:** Flutter.
 - **Bases de Datos:** MySQL.
-- **Herramientas:** Git, GitHub, Visual Studio Code, Linux (Lubuntu).
-- 
+- **Herramientas:** Git, GitHub, Visual Studio Code, Linux (Lubuntu.
+
 ### 🎬 Hobbies:
 Además de programar, soy un apasionado del **cine** 🎥, y me encanta ver y analizar películas. 
 También soy un jugador de **ajedrez**, lo cual me ayuda a mantener la mente activa y mejorar mi capacidad para resolver problemas.
