@@ -3,15 +3,15 @@ Soy un apasionado desarrollador de software con especial interés en **Python** 
 Siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades, creando proyectos que resuelvan problemas o simplifiquen tareas cotidianas.
 
 ### 🚀 Tecnologías y Habilidades:
-- **Lenguajes:** Python, Dart.
-- **Frameworks:** Flutter.
+- **Lenguajes:** Python, C++.
+- **Frameworks:** Django, Flask.
 - **Bases de Datos:** MySQL.
-- **Herramientas:** Git, GitHub, Visual Studio Code, Linux (Lubuntu.
+- **Herramientas:** Git, GitHub, MySQL Workbench.
+- **Manejo de S.O:** Windows y Linux.
 
 ### 🎬 Hobbies:
 Además de programar, soy un apasionado del **cine** 🎥, y me encanta ver y analizar películas. 
 También soy un jugador de **ajedrez**, lo cual me ayuda a mantener la mente activa y mejorar mi capacidad para resolver problemas.
 
 ### 📫 ¿Quieres contactarme?
-Puedes encontrarme en mis redes sociales o enviarme un mensaje directo aquí en GitHub. 
-Siempre estoy abierto a colaborar en proyectos interesantes o discutir sobre tecnología, cine o ajedrez.
+Puedes encontrarme en mis redes sociales o enviarme un mensaje directo aquí en GitHub.
