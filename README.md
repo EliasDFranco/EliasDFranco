@@ -1,8 +1,8 @@
-<h1 align="center">¡Hola! Soy Elias Franco Duarte.</h1>
+<h1 align="center">¡Hi! I'm Elias Franco Duarte.</h1>
 
 ###
 
-<h4 align="center">Soy un apasionado desarrollador de software con especial interés en Python y el desarrollo de Apps móviles. Siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades, creando proyectos que resuelvan problemas o simplifiquen tareas cotidianas.</h4>
+<h4 align="center">I am a passionate software developer with a special interest in Python and mobile app development. I am always looking for new ways to learn and improve my skills, creating projects that solve problems or simplify everyday tasks.</h4>
 
 ###
 
