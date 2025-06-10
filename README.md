@@ -1,7 +1,7 @@
 <h2 align="center">¡Hi! I'm Elias Franco Duarte.</h2>
 
 <h4 align="center">
-I am a passionate software developer with a special interest in Python and web development. I'm always looking for new ways to learn and improve my skills, creating projects that solve problems or simplify everyday tasks.
+I am a passionate software developer with a special interest in Python and mobile app develoment. I'm always looking for new ways to learn and improve my skills, creating projects that solve problems or simplify everyday tasks.
 </h4>
 
 
