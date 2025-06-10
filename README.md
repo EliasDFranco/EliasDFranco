@@ -14,8 +14,6 @@ I am a passionate software developer with a special interest in Python and web d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
 
-<br/>
-
 <!-- Lenguajes de Programación -->
 <h3 align="center">  Programming Languages</h3>
 <div align="center">
