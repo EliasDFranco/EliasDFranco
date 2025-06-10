@@ -4,7 +4,6 @@
 I am a passionate software developer with a special interest in Python and web development. I'm always looking for new ways to learn and improve my skills, creating projects that solve problems or simplify everyday tasks.
 </h4>
 
-<br/>
 
 <!-- Lenguajes de Maquetación -->
 <h3 align="center">  Markup Languages</h3>
@@ -28,8 +27,6 @@ I am a passionate software developer with a special interest in Python and web d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
 </div>
 
-<br/>
-
 <!-- Frameworks -->
 <h3 align="center">  Frameworks</h3>
 <div align="center">
@@ -40,8 +37,6 @@ I am a passionate software developer with a special interest in Python and web d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
 </div>
 
-<br/>
-
 <!-- Bases de Datos -->
 <h3 align="center">  Databases</h3>
 <div align="center">
@@ -49,8 +44,6 @@ I am a passionate software developer with a special interest in Python and web d
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
-
-<br/>
 
 <!-- Sistemas Operativos -->
 <h3 align="center">  Operating Systems</h3>
@@ -60,8 +53,6 @@ I am a passionate software developer with a special interest in Python and web d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo" />
 </div>
 
-<br/>
-
 <!-- Herramientas -->
 <h3 align="center">🛠️ Tools</h3>
 <div align="center">
@@ -70,7 +61,6 @@ I am a passionate software developer with a special interest in Python and web d
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
 </div>
 
-<br/>
 
 <!-- Redes Sociales -->
 <div align="center">
