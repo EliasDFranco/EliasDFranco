@@ -1,4 +1,4 @@
-<h2 align="center">Hello, my name is Elias D. Franco, and I'm a Computer Engineer student from Paraguay with a passion for mobile development, Python, and innovative tech solutions.</h2>
+<h3 align="center">Hello, my name is Elias D. Franco, and I'm a Computer Engineer student from Paraguay with a passion for mobile development, Python, and innovative tech solutions.</h3>
 
 ###
 
